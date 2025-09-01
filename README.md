@@ -1,16 +1,26 @@
-## Hi there 👋
+### Olá! 👋 Sou Beatriz Ribeiro
 
-<!--
-**cyberibeiro/cyberibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🚀 Sobre Mim
+- Sou estudante de **Segurança da Informação**.
+- Atualmente, estou focada nos estudos de **Lógica de Programação com C#** e na linguagem **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 💻 Tecnologias que Estou Aprendendo
+- C#
+- Python
+- .NET
+
+---
+
+#### 📫 Como me Encontrar
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-ribeiro-tech)](https://www.linkedin.com/in/beatriz-ribeiro-tech) 
+
+---
+
+#### 📈 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=dark) Olá! 👋 Sou Beatriz Ribeiro
