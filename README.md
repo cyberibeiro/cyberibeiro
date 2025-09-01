@@ -26,5 +26,6 @@
 
 ### 📈 Estatísticas do GitHub
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=transparent&title_color=E91E63&text_color=F8F8F2&icon_color=E91E63&hide_border=true&ring_color=FF0000)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=dark)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=dark)
