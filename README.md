@@ -4,7 +4,7 @@
 
 #### 🚀 About Me
 
-- I am an Information Security student at Fatec.**.
+- I am an **Information Security** student at Fatec.
 - I'm currently focused on studying **Logic with C#** and the **Python** language.
 
 ---
