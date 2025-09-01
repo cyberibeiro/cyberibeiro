@@ -2,16 +2,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/k6lP0Wn.png" alt="Welcome to my GitHub profile" />
-</p>
-
----
-
 #### 🚀 Sobre Mim
+
 - Sou estudante de **Segurança da Informação**.
 - Atualmente, estou focada nos estudos de **Lógica de Programação com C#** e na linguagem **Python**.
-- 
+
 ---
 
 #### 💻 Tecnologias que Estou Aprendendo
