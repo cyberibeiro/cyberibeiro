@@ -26,13 +26,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=transparent&title_color=E91E63&text_color=F8F8F2&icon_color=E91E63&hide_border=true&ring_color=FF0000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=transparent&hide_border=true&title_color=E91E63&text_color=F8F8F2&bg_color=00000000&card_width=320&locale=en)
-
----
-
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&text_color=FFD1DC&icon_color=FF69B4&hide_rank=true&ring_color=FF0000&locale=en)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=transparent&title_color=E91E63&text_color=F8F8F2&icon_color=E91E63&hide_border=true&ring_color=FF0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=FFD1DC&bg_color=00000000&card_width=320&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=transparent&hide_border=true&title_color=E91E63&text_color=F8F8F2&bg_color=00000000&card_width=320&locale=en)
