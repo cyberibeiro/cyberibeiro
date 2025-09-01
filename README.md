@@ -31,7 +31,5 @@
 
 ### 📈 Estatísticas do GitHub
 
-![GitHub Contribuições](https://ghchart.rshah.org/cyberibeiro)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=dark)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=dark)
