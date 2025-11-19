@@ -42,7 +42,8 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
   <img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/>
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Cisco_packet_tracer_new_logo.png" alt="Cisco Packet Tracer"/>
+  <img height="50" src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/packet-tracer.png" 
+     alt="Cisco Packet Tracer" style="height:50px;width:auto;object-fit:contain;">
 </div>
 
 <br>
