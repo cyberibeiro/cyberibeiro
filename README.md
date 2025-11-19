@@ -42,8 +42,6 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
   <img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/>
-  <img src="https://exemplo.com/packet-tracer.png" alt="Cisco Packet Tracer"
-     style="height:50px;width:auto;object-fit:contain;display:inline-block;">
 </div>
 
 <br>
