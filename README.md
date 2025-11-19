@@ -1,50 +1,62 @@
-### Hi there! 👋 I'm Beatriz Ribeiro
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm <strong>Beatriz Ribeiro</strong></h1>
+<h3 align="center">Information Security Student | Focused on Python & C#</h3>
 
----
+<br>
 
-#### 🚀 About Me
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C%23-green?style=for-the-badge">
+</p>
 
-- I am an *Information Security* student at Fatec.
-- I'm currently focused on studying *Logic with C#* and the *Python* language.
+<br>
 
----
+<!-- About Me -->
+<h2>💡 About Me</h2>
+<p>
+  - 🎓 Information Security student at <strong>Fatec</strong><br>
+  - 📘 Currently studying <strong>Logic with C#</strong> and improving my <strong>Python</strong> skills<br>
+  - 🎯 Seeking opportunities in the tech field<br>
+  - 💼 Here I share my projects, studies, and growth
+</p>
 
-<h4 align="center">⚡ Languages & Tools</h4>
+<br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <h3>Languages</h3>
-        <br>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h3>Tools</h3>
-        <br>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-      </td>
-    </tr>
-  </table>
+<!-- Skills -->
+<h2>🛠️ Technologies & Tools</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
 
----
+<br>
 
-#### Contact me:
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=tokyonight"/>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-ribeiro-tech)](https://www.linkedin.com/in/beatriz-ribeiro-tech)
-<a href="mailto:beatrizribeiro.milli@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+<br>
 
----
+<!-- Contact -->
+<h2>📫 Contact</h2>
+<p>
+  <strong>Email:</strong> beatrizribeiro.milli@gmail.com<br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/beatriz-ribeiro-tech">Click here</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/cyberibeiro">cyberibeiro</a>
+</p>
 
-### 📈 GitHub Stats
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=transparent&title_color=0A84FF&text_color=2E2E2E&icon_color=0A84FF&hide_border=true&ring_color=0A84FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=transparent&hide_border=true&title_color=0A84FF&text_color=2E2E2E&bg_color=00000000&card_width=320&locale=en)
+<!-- Footer -->
+<p align="center">
+  ✨ Thanks for visiting! Feel free to explore my projects. ✨
+</p>
