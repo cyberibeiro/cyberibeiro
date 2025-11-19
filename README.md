@@ -44,6 +44,6 @@
 
 ### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=transparent&title_color=E91E63&text_color=F8F8F2&icon_color=E91E63&hide_border=true&ring_color=FF0000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=transparent&title_color=0A84FF&text_color=2E2E2E&icon_color=0A84FF&hide_border=true&ring_color=0A84FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=transparent&hide_border=true&title_color=E91E63&text_color=F8F8F2&bg_color=00000000&card_width=320&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=transparent&hide_border=true&title_color=0A84FF&text_color=2E2E2E&bg_color=00000000&card_width=320&locale=en)
