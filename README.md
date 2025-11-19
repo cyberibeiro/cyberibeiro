@@ -70,3 +70,12 @@
 ---
 
 <p align="center">✨ Thanks for visiting my GitHub! Feel free to explore my projects. ✨</p>
+
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=transparent&hide_border=true&title_color=0A84FF&text_color=2E2E2E&bg_color=00000000&card_width=320&locale=en"
+       height="180px"
+  />
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my GitHub! Feel free to explore my projects. ✨</p>
