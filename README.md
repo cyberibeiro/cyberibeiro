@@ -16,7 +16,9 @@
 <h2>💡 About Me</h2>
 <p>
   - 🎓 Information Security student at <strong>Fatec</strong><br>
-  - 📘 Currently studying <strong>Logic with C#</strong> and improving my <strong>Python</strong> skills<br>
+  - 📘 Currently studying <strong>Logic with C#</strong><br>
+  - 🐍 Improving my <strong>Python</strong> skills<br>
+  - 🌐 Learning <strong>HTML & CSS</strong><br>
   - 🎯 Seeking opportunities in the tech field<br>
   - 💼 Here I share my projects, studies, and growth
 </p>
