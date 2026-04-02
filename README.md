@@ -48,11 +48,19 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
+    width="400"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+    width="400"
+  />
 </p>
 
 <br>
