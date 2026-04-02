@@ -47,8 +47,9 @@
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberibeiro&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberibeiro&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <br>
